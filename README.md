@@ -1,27 +1,26 @@
-<!--                                                        # Nazarov Asadbek  
-- 👋 Hi, I’m Nazarov Asadbek 
-- 👀 I’m interested in JS, CSS/SASS and HTML 
-- 🌱 I’m currently learning SASS 
+<!--                                                        # XurshidBek Soliyev 
+- 👋 Hi, I’m Xurshidbek Soliyev 
+- 👀 I’m interested in JS and all JS technologies
 - 💞️ I’m looking to collaborate on web app & platform development 
-- 📫 How to reach me nazarov_asadbek_official@mail.ru  -->
+ -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=NazarovAsadbek&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=XurshidbekSoliyev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=LwtCompany&theme=react-dark&hide_border=true&area=true" />
 </div> 
  
 <!--  ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="NazarovAsadbek github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=LwtCompany&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LwtCompany github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LwtCompany&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <!-- ./STATS  -->
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovAsadbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=LwtCompany&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="LwtCompany" /></div>
 <!-- <div align="center"   >   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -80,17 +79,14 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NazarovAsadbek}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LwtCompany}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<!-- |                 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="NazarovAsadbek github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
+<!-- |                 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api? username=LwtCompany&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LwtCompany github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LwtCompany&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- | -->
 
-<!--          ![Stats](https://github-readme-stats.vercel.app/api?username=NazarovAsadbek&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovAsadbek&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117) -->
-<!---
-NazarovAsadbek/NazarovAsadbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--          ![Stats](https://github-readme-stats.vercel.app/api?username=LwtCompany&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LwtCompany&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117) -->
+
